@@ -1,0 +1,14 @@
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+D:\ITI(intensive-Program .NET)\C#\Labs\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll

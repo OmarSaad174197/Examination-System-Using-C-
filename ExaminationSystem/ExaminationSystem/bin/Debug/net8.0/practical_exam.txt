@@ -1,0 +1,236 @@
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (4 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (4 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question: C#: Select all the primitive datatypes in C# . (5 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: False
+Answer: False, Correct: True
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (5 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question: C#: Select all the primitive datatypes in C# . (2 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (2 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question: C#: Select all the primitive datatypes in C# . (2 marks) - ChooseAll
+Answer: int, Correct: True
+Answer: byte, Correct: True
+Answer: long, Correct: True
+Answer: Char, Correct: True
+Answer: string, Correct: True
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: C#: Select all the primitive datatypes in C# . (2 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question: Databases: What are DML queries ? (2 marks) - ChooseOne
+Answer: Create, Correct: False
+Answer: Insert, Correct: True
+Answer: Grant, Correct: False
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: Databases: What are DML queries ? (2 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
+Question: Sports: Who is the ballon d`or winner in 2017 ? (2 marks) - ChooseOne
+Answer: C.Ronaldo, Correct: True
+Answer: L.Messi, Correct: False
+Answer: Neymar, Correct: False
+Question: OOP: Is there multiple inheritance in C#? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question: Databases: What are DML queries ? (2 marks) - ChooseOne
+Answer: Create, Correct: False
+Answer: Insert, Correct: True
+Answer: Grant, Correct: False
+Question: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks) - TrueFalse
+Answer: True, Correct: True
+Answer: False, Correct: False
+Question Added: Sports: Who is the ballon d`or winner in 2017 ? (2 marks)
+Question Added: OOP: Is there multiple inheritance in C#? (2 marks)
+Question Added: Databases: What are DML queries ? (2 marks)
+Question Added: Python: Is the method that is used to print in python is Console.WriteLine()? (2 marks)
